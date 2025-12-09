@@ -192,7 +192,7 @@ This project is open source and available under the MIT License.
 
 **Created by Ayush Kumar** :)
 
-- GitHub: [@tubakhxn](https://github.com/Ayush1787)
+- GitHub: (https://github.com/Ayush1787)
 - A passionate developer creating innovative gaming experiences with AI and computer vision
 
 ## Credits
